@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
-"""
-Main entry point for the Library Management System.
 
-Usage:
-    python main.py              # Run interactive CLI
-    python main.py --demo       # Run demo with sample data
-    python main.py --help       # Show help
-"""
 
 import sys
 import argparse
